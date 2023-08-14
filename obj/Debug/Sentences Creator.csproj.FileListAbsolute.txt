@@ -1,0 +1,78 @@
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Sentences Creator.exe.config
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Sentences Creator.pdb
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\App.g.cs
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator_MarkupCompile.cache
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator_MarkupCompile.lref
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\MainWindow.baml
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.g.resources
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences_Creator.Properties.Resources.resources
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.pdb
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\MaterialDesignColors.dll
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Иван\source\repos\Sentences Creator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\App.baml
+C:\Users\Иван\source\repos\Sentences Creator\obj\Debug\Sentences Creator.csproj.CopyComplete
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Sentences Creator.exe.config
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Sentences Creator.pdb
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\MaterialDesignColors.dll
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\App.g.cs
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator_MarkupCompile.cache
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator_MarkupCompile.lref
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\App.baml
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\MainWindow.baml
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.g.resources
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences_Creator.Properties.Resources.resources
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.csproj.CopyComplete
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\Sentences Creator\Sentences-Creator\obj\Debug\Sentences Creator.pdb
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Sentences Creator.exe.config
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Sentences Creator.pdb
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\MaterialDesignColors.dll
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Иван\source\repos\SentencesCreator\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\App.g.cs
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator_MarkupCompile.cache
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator_MarkupCompile.lref
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\App.baml
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\MainWindow.baml
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.g.resources
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences_Creator.Properties.Resources.resources
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.csproj.CopyComplete
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.exe
+C:\Users\Иван\source\repos\SentencesCreator\obj\Debug\Sentences Creator.pdb
